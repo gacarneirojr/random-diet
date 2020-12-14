@@ -8,7 +8,7 @@
 
 **Only JavaScript is used. No frameworks**
 
-*This is a project exercise required for partial fulfillment of CodeCademy JavaScript course
+*This is a project exercise required for partial fulfillment of CodeCademy JavaScript course*
 
 
 
