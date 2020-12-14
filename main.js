@@ -2,7 +2,7 @@
 const breakfast =   [
     ["coffee with milk, 2 eggs, 1 toast, 1 cereal bar"],
     ["orange juice, 2 slices of bacon, 2 slices of bread, 1 apple, yogurt"],
-    ["tea, 1 biscuit, 2 cream crackers, pear fruit, whey protein "]
+    ["tea, 1 biscuit, 2 cream crackers, pear fruit, whey protein"]
     ];
 
 const lunch = [
@@ -20,9 +20,9 @@ const dinner = [
 //This function pics 3 random numbers to be used for each meal of the day. The result returns a message
 // with 18 random possibilities of meals combinations
 const dietGenerator = () => {
-    let random1 = Math.floor(Math.random()*3);
-    let random2 = Math.floor(Math.random()*3);
-    let random3 = Math.floor(Math.random()*3);
+    let random1 = Math.floor(Math.random()*breakfast.length);
+    let random2 = Math.floor(Math.random()*lunch.length);
+    let random3 = Math.floor(Math.random()*dinner.length);
     let breakfastR = breakfast[random1];
     let lunchR = lunch[random2];
     let dinnerR = dinner[random3];

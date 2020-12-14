@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a84dbfb1-c05d-4822-a846-5885151b574e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607952864669</updated>
-      <workItem from="1607952866167" duration="2093000" />
+      <workItem from="1607952866167" duration="2786000" />
     </task>
     <task id="LOCAL-00001" summary="Readme created">
       <created>1607953152094</created>
@@ -80,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607954904061</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-README.md fixed">
+      <created>1607955004946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607955004946</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +109,7 @@
     <MESSAGE value="Readme created" />
     <MESSAGE value="Meals samples and general code created with no test" />
     <MESSAGE value="-Readme.md updated&#10;-Comments on main.js&#10;-index.html created for test" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Readme.md updated&#10;-Comments on main.js&#10;-index.html created for test" />
+    <MESSAGE value="-README.md fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="-README.md fixed" />
   </component>
 </project>
