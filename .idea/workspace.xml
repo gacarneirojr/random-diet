@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a84dbfb1-c05d-4822-a846-5885151b574e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607952864669</updated>
-      <workItem from="1607952866167" duration="3064000" />
+      <workItem from="1607952866167" duration="4016000" />
     </task>
     <task id="LOCAL-00001" summary="Readme created">
       <created>1607953152094</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607955951863</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="-Random numbers changed from fixed numbers to variable ones according to the length of the arrays">
+      <created>1607956171170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607956171170</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
